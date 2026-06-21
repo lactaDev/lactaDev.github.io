@@ -12,3 +12,20 @@ ul{
     padding: 16px;
 
 }
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    width: 170px;
+    height: 240px;
+    border-radius: 60%;
+    border: 5px solid white;
+    
+}
+
+.center {
+    text-align: center;
+}
